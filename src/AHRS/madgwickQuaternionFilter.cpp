@@ -1,3 +1,4 @@
+// kris winer https://github.com/kriswiner
 // Implementation of Sebastian Madgwick's "...efficient orientation filter for... inertial/magnetic sensor arrays"
 // (see http://www.x-io.co.uk/category/open-source/ for examples and more details)
 #include "madgwickQuaternionFilter.h"
